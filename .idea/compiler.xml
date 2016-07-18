@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Kyivstar-dila" />
+        <module name="com.devcolibri.dataexam" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Kyivstar-dila" target="1.5" />
+      <module name="com.devcolibri.dataexam" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

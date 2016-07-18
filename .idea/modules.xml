@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Kyivstar-dila.iml" filepath="$PROJECT_DIR$/Kyivstar-dila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.devcolibri.dataexam.iml" filepath="$PROJECT_DIR$/com.devcolibri.dataexam.iml" />
     </modules>
   </component>
 </project>
